@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**7rtfdqv8xw-dotcom/7rtfdqv8xw-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+18 YEAR OLDS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Intrested in Finance for over 3 years
+-Day trader ( for 6 months)
+-YES THE NQ BEATS ME LONGTERM 😂
+-Learning new things, getting into backtesting
+
+-tryna find an *EDGE* in the market
+I like chess and started crime and punishment recently
+
+open for new stuff 🔱
+
+- 🔭 I’m currently working on another backtesting model
+- 
+- 🌱 I’m currently learning coding and trying to learn the math behind the market 😭
+- 
+- ⚡ Fun fact: i love music lol
