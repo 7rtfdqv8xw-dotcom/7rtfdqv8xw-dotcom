@@ -1,12 +1,11 @@
 ## Print("Hello")
 
 
-18 YEAR OLDS
+18 YEAR´s old
 
 -Intrested in Finance for over 3 years
 -Day trader ( for 6 months)
--YES THE NQ BEATS ME LONGTERM 😂
--Learning new things, getting into backtesting
+-Learning new things, getting into backtesting with python
 
 -tryna find an *EDGE* in the market
 I like chess and started crime and punishment recently
