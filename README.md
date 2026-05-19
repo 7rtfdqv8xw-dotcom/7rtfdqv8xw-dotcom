@@ -1,7 +1,7 @@
 ## Print("Hello")
 
 
-18 YEAR´s old
+18 YEARS OLD
 
 -Intrested in Finance for over 3 years
 -Day trader ( for 6 months)
